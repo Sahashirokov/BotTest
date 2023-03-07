@@ -2,7 +2,7 @@
 
 namespace BotTest;
 
-public struct ConfigJSON
+internal struct ConfigJSON
 {
     [JsonProperty("token")]
     public string Token { get; private set; }

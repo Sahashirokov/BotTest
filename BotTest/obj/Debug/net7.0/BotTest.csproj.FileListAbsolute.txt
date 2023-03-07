@@ -24,3 +24,29 @@ C:\Users\Alexander\RiderProjects\BotTest\BotTest\obj\Debug\net7.0\refint\BotTest
 C:\Users\Alexander\RiderProjects\BotTest\BotTest\obj\Debug\net7.0\BotTest.pdb
 C:\Users\Alexander\RiderProjects\BotTest\BotTest\obj\Debug\net7.0\BotTest.genruntimeconfig.cache
 C:\Users\Alexander\RiderProjects\BotTest\BotTest\obj\Debug\net7.0\ref\BotTest.dll
+D:\Visual Studio Projects\C Test\UserTest\BotTest\bin\Debug\net7.0\BotTest.exe
+D:\Visual Studio Projects\C Test\UserTest\BotTest\bin\Debug\net7.0\BotTest.deps.json
+D:\Visual Studio Projects\C Test\UserTest\BotTest\bin\Debug\net7.0\BotTest.runtimeconfig.json
+D:\Visual Studio Projects\C Test\UserTest\BotTest\bin\Debug\net7.0\BotTest.dll
+D:\Visual Studio Projects\C Test\UserTest\BotTest\bin\Debug\net7.0\BotTest.pdb
+D:\Visual Studio Projects\C Test\UserTest\BotTest\bin\Debug\net7.0\ConcurrentCollections.dll
+D:\Visual Studio Projects\C Test\UserTest\BotTest\bin\Debug\net7.0\DSharpPlus.dll
+D:\Visual Studio Projects\C Test\UserTest\BotTest\bin\Debug\net7.0\DSharpPlus.CommandsNext.dll
+D:\Visual Studio Projects\C Test\UserTest\BotTest\bin\Debug\net7.0\DSharpPlus.Interactivity.dll
+D:\Visual Studio Projects\C Test\UserTest\BotTest\bin\Debug\net7.0\DSharpPlus.SlashCommands.dll
+D:\Visual Studio Projects\C Test\UserTest\BotTest\bin\Debug\net7.0\Emzi0767.Common.dll
+D:\Visual Studio Projects\C Test\UserTest\BotTest\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual Studio Projects\C Test\UserTest\BotTest\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual Studio Projects\C Test\UserTest\BotTest\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual Studio Projects\C Test\UserTest\BotTest\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Visual Studio Projects\C Test\UserTest\BotTest\obj\Debug\net7.0\BotTest.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\C Test\UserTest\BotTest\obj\Debug\net7.0\BotTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\C Test\UserTest\BotTest\obj\Debug\net7.0\BotTest.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\C Test\UserTest\BotTest\obj\Debug\net7.0\BotTest.AssemblyInfo.cs
+D:\Visual Studio Projects\C Test\UserTest\BotTest\obj\Debug\net7.0\BotTest.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\C Test\UserTest\BotTest\obj\Debug\net7.0\BotTest.csproj.CopyComplete
+D:\Visual Studio Projects\C Test\UserTest\BotTest\obj\Debug\net7.0\BotTest.dll
+D:\Visual Studio Projects\C Test\UserTest\BotTest\obj\Debug\net7.0\refint\BotTest.dll
+D:\Visual Studio Projects\C Test\UserTest\BotTest\obj\Debug\net7.0\BotTest.pdb
+D:\Visual Studio Projects\C Test\UserTest\BotTest\obj\Debug\net7.0\BotTest.genruntimeconfig.cache
+D:\Visual Studio Projects\C Test\UserTest\BotTest\obj\Debug\net7.0\ref\BotTest.dll
