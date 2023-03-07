@@ -2,7 +2,7 @@
 using DSharpPlus.Entities;
 using DSharpPlus.SlashCommands;
 
-namespace BotTest;
+namespace BotTest.Slash_Commands;
 
 public class ComSl:ApplicationCommandModule
 {

@@ -1,4 +1,6 @@
 ﻿using System.Text;
+using BotTest.Commands;
+using BotTest.Slash_Commands;
 using DSharpPlus;
 using DSharpPlus.CommandsNext;
 using DSharpPlus.EventArgs;
@@ -19,12 +21,8 @@ public class Bot
     {
         string json = string.Empty;
         using (var fs = File.OpenRead("config.json"))
-        {
-            using (var sr = new StreamReader(fs, new UTF8Encoding(false)))
-            {
-                json = await sr.ReadToEndAsync();
-            }
-        }
+        using (var sr = new StreamReader(fs, new UTF8Encoding(false)))
+            json = await sr.ReadToEndAsync();
 
         var configJson = JsonConvert.DeserializeObject<ConfigJSON>(json);
 
@@ -35,12 +33,16 @@ public class Bot
             TokenType = TokenType.Bot,
             AutoReconnect = true
         };
+
         Client = new DiscordClient(config);
         Client.UseInteractivity(new InteractivityConfiguration()
         {
             Timeout = TimeSpan.FromMinutes(2)
         });
+
+        //EVENT HANDLERS
         Client.Ready += OnClientReady;
+
         var commandsConfig = new CommandsNextConfiguration
         {
             StringPrefixes = new string[] { configJson.Prefix },
@@ -51,8 +53,12 @@ public class Bot
 
         Commands = Client.UseCommandsNext(commandsConfig);
         SlashCommandsExtension slashCommandsConfig = Client.UseSlashCommands();
-       // Commands.RegisterCommands<FunCommands>(); 
-        slashCommandsConfig.RegisterCommands<ComSl>(1081270258163265659);
+
+        //NORMAL COMMANDS
+        Commands.RegisterCommands<Fun>();
+
+        //SLASH COMMANDS
+        slashCommandsConfig.RegisterCommands<ComSl>();
 
         await Client.ConnectAsync();
         await Task.Delay(-1);

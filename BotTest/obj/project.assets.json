@@ -4457,19 +4457,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alexander\\.nuget\\packages\\": {}
+    "C:\\Users\\samue\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexander\\RiderProjects\\BotTest\\BotTest\\BotTest.csproj",
+      "projectUniqueName": "D:\\Visual Studio Projects\\C Test\\UserTest\\BotTest\\BotTest.csproj",
       "projectName": "BotTest",
-      "projectPath": "C:\\Users\\Alexander\\RiderProjects\\BotTest\\BotTest\\BotTest.csproj",
-      "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexander\\RiderProjects\\BotTest\\BotTest\\obj\\",
+      "projectPath": "D:\\Visual Studio Projects\\C Test\\UserTest\\BotTest\\BotTest.csproj",
+      "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+      "outputPath": "D:\\Visual Studio Projects\\C Test\\UserTest\\BotTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
