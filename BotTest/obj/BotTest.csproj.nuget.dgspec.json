@@ -42,19 +42,19 @@
           "dependencies": {
             "DSharpPlus": {
               "target": "Package",
-              "version": "[4.3.0, )"
+              "version": "[4.4.0-nightly-01386, )"
             },
             "DSharpPlus.CommandsNext": {
               "target": "Package",
-              "version": "[4.3.0, )"
+              "version": "[4.4.0-nightly-01386, )"
             },
             "DSharpPlus.Interactivity": {
               "target": "Package",
-              "version": "[4.3.0, )"
+              "version": "[4.4.0-nightly-01386, )"
             },
             "DSharpPlus.SlashCommands": {
               "target": "Package",
-              "version": "[4.3.0, )"
+              "version": "[4.4.0-nightly-01386, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
